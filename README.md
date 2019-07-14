@@ -21,5 +21,5 @@ Hello World !!!
 ```
 
 ## Documentation
-Read more about how to write your first Java application called HelloWorld [vhttp://kabiliravi.com/index.php/software/programming/my-java-tutorial/get-started/ here]:
+Read more about how to write your first Java application called HelloWorld [here link] http://kabiliravi.com/index.php/software/programming/my-java-tutorial/get-started/:
 http://kabiliravi.com/index.php/software/programming/my-java-tutorial/get-started/
